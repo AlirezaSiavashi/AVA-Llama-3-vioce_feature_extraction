@@ -22,7 +22,7 @@ To Be Done
 you can change your prompt based on what charactristic that you need
 the output type is json.
 after loading the Ava model in your local server you can ask the car charactristic based on the voice
-that a speecher say
+that a speecher say.
 
 -------------------------------------------------
 
